@@ -1,0 +1,20 @@
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\bin\Debug\AtYarışı.exe.config
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\bin\Debug\AtYarışı.exe
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\bin\Debug\AtYarışı.pdb
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.Form1.resources
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.Properties.Resources.resources
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.csproj.GenerateResource.cache
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.exe
+C:\Users\kadir\Desktop\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.pdb
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\bin\Debug\AtYarışı.exe.config
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\bin\Debug\AtYarışı.exe
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\bin\Debug\AtYarışı.pdb
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.Form1.resources
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.Properties.Resources.resources
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.csproj.GenerateResource.cache
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.exe
+C:\Users\kadir\Desktop\Görsel Programlama\atYarisiKod\AtYarışı\AtYarışı\obj\Debug\AtYarışı.pdb
